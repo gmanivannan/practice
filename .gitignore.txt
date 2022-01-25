@@ -1,2 +1,2 @@
-*.xps
-sample.txt
+testing.txt
+testing.Text Document

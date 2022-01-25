@@ -1,7 +1,9 @@
 # -----------------------------------------------------------------
-
+testing.txt
+testing.Text Document
 sample.txt
 sample.Text Document
+
 # .gitignore
 # Bare Minimum Git
 # https://salferrarello.com/starter-gitignore-file/
